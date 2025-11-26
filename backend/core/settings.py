@@ -56,6 +56,7 @@ INSTALLED_APPS = [
     'friends',
     'events',
     'trilhas',
+    'gamification',
 ]
 
 # --- MIDDLEWARE ---
